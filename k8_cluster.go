@@ -1,4 +1,4 @@
-package k8_scluster
+package k8_cluster
 
 import "fmt"
 
